@@ -1,0 +1,24 @@
+[
+    {
+        "id": "1",
+        "title": "BMI",
+        "descr": "BMI calculator program",
+        "mainImg": "az img url",
+        "technologies": "[CSS3,HTML5,…]",
+        "images": "egy pár kiemelt kódsor képe...amire büszke vagy",
+        "gitHub": "link",
+        "hosted": "https://jozskagyerek72.github.io/BMIcalculator/",
+        "createdAt": "2024.01.12"
+    },
+    {
+        "id": "2",
+        "title": "Itt a piros hol a piros",
+        "descr": "Egyszeru jatek",
+        "mainImg": "az img url",
+        "technologies": "[CSS3,HTML5,…]",
+        "images": "egy pár kiemelt kódsor képe...amire büszke vagy",
+        "gitHub": "link",
+        "hosted": "https://jozskagyerek72.github.io/piros/",
+        "createdAt": "2023.12.12"
+    }
+]
